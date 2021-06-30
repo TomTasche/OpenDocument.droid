@@ -69,8 +69,8 @@
     <string name="reopen_chooser_title">기기에 설치된 다른 앱을 사용해서 열기: </string>
     <string-array name="dialog_remove_ads_options">
         <item>완전히 광고 제거하기</item>
-        <item>Remove ads for a month</item>
-        <item>짧은 광고를 보고 일시적으로 광고 제거</item>
+        <item>한달동안 광고 제거</item>
+        <item>짧은 광고 영상을 보고 일시적으로 광고 제거</item>
     </string-array>
     <!--  iOS -->
     <string name="ok">확인</string>

@@ -70,8 +70,8 @@
     <string name="reopen_chooser_title">Ouvrir avec une autre application installée sur votre appareil :</string>
     <string-array name="dialog_remove_ads_options">
         <item>Supprimer les pubs définitivement</item>
-        <item>Remove ads for a month</item>
-        <item>Supprimer temporairement et gratuitement les pubs en regardant une courte vidéo</item>
+        <item>Supprimer les publicités pour 1 mois</item>
+        <item>Supprime temporairement et gratuitement les publicités en regardant une courte vidéo</item>
     </string-array>
     <!--  iOS -->
     <string name="ok">OK</string>

@@ -69,8 +69,8 @@
     <string name="reopen_chooser_title">使用设备上的其他应用打开：</string>
     <string-array name="dialog_remove_ads_options">
         <item>永久移除广告</item>
-        <item>Remove ads for a month</item>
-        <item>通过观看短视频并暂时免费移除广告</item>
+        <item>删除一个月的广告</item>
+        <item>观看短视频暂时免费移除广告</item>
     </string-array>
     <!--  iOS -->
     <string name="ok">确认</string>

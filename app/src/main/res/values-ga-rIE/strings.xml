@@ -70,7 +70,7 @@
     <string-array name="dialog_remove_ads_options">
         <item>Bain na fógraí go deo</item>
         <item>Remove ads for a month</item>
-        <item>Bain fógraí go sealadach saor in aisce trí bhreathnú ar fhíseán gearr</item>
+        <item>Remove ads temporarily for free by watching a short video</item>
     </string-array>
     <!--  iOS -->
     <string name="ok">Tá go maith</string>

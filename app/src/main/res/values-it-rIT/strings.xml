@@ -56,7 +56,7 @@
     <string-array name="dialog_remove_ads_options">
         <item>Rimuovere gli annunci per sempre</item>
         <item>Remove ads for a month</item>
-        <item>Rimuovere temporaneamente gli annunci gratuitamente guardando un breve video</item>
+        <item>Remove ads temporarily for free by watching a short video</item>
     </string-array>
     <!--  iOS -->
 </resources>

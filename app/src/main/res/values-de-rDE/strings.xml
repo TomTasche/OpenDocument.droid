@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="toast_error_generic">Etwas Schlimmes ist passiert. Datei konnte nicht geöffnet werden.</string>
+    <string name="toast_error_generic">Etwas schlimmes ist passiert. Datei konnte nicht geöffnet werden.</string>
     <string name="toast_error_find_file">Datei konnte nicht gefunden werden.</string>
     <string name="toast_error_illegal_file">Diese Datei scheint keines der unterstützten Formate zu haben.</string>
     <string name="toast_hint_upload_file">Nicht zufrieden damit wie die Datei angezeigt wird? Lade sie vorübergehend hoch um die Formatierung zu verbessern.</string>
@@ -61,8 +61,8 @@
     <string name="crouton_remove_ads">Brauchen Sie mehr Platz zum Lesen? Entfernen Sie Werbung kostenlos über das Menü.</string>
     <string-array name="dialog_remove_ads_options">
         <item>Werbung für immer entfernen</item>
-        <item>Werbung für ein Monat entfernen</item>
-        <item>Werbung gratis entfernen durch Ansehen eines kurzen Videos</item>
+        <item>Remove ads for a month</item>
+        <item>Remove ads temporarily for free by watching a short video</item>
     </string-array>
     <!--  iOS -->
 </resources>

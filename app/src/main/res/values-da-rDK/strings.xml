@@ -37,7 +37,7 @@
     <string-array name="dialog_remove_ads_options">
         <item>Fjern reklamer forevigt</item>
         <item>Remove ads for a month</item>
-        <item>Fjern reklamer midlertidigt ved at se en kort video</item>
+        <item>Remove ads temporarily for free by watching a short video</item>
     </string-array>
     <!--  iOS -->
 </resources>

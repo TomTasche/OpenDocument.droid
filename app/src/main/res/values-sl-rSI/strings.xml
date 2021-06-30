@@ -69,7 +69,7 @@
     <string-array name="dialog_remove_ads_options">
         <item>Odstrani oglase za vedno</item>
         <item>Remove ads for a month</item>
-        <item>Začasno odstrani oglase</item>
+        <item>Remove ads temporarily for free by watching a short video</item>
     </string-array>
     <!--  iOS -->
     <string name="ok">V redu</string>
